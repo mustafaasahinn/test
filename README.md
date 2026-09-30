@@ -2,4 +2,4 @@
 
 Bu proje Git ve GitHub dersi için hazırlanmıştır.
 
-deneme deneme
+deneme deneme  test
